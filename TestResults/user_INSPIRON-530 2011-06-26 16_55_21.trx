@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="07e12a7d-8295-4901-a19c-bdcb3a4209af" name="user@INSPIRON-530 2011-06-26 16:55:21" runUser="INSPIRON-530\user" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f8776ff7-fab6-4842-a5b1-d5b810a230b5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="user_INSPIRON-530 2011-06-26 16_55_21">
+      <DeploymentItem filename="E:\Ashiq\Programming\DeenGames\ThePrisoner\Core\Bin\Debug\ThePrisoner.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-26T16:55:21.3046250-04:00" queuing="2011-06-26T16:55:24.8046250-04:00" start="2011-06-26T16:55:24.9608750-04:00" finish="2011-06-26T16:55:26.1640000-04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ParsingCanProcessSingleNodeWithComment" storage="e:\ashiq\programming\deengames\theprisoner\unittest\bin\debug\unittest.dll" id="f9e5d2bf-e9f8-07bc-e7c4-d83517749537">
+      <Execution id="b72fc3ad-9e7e-48c3-90fa-d3da3b689f3b" />
+      <TestMethod codeBase="E:/Ashiq/Programming/DeenGames/ThePrisoner/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.NodeHelperTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ParsingCanProcessSingleNodeWithComment" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f9e5d2bf-e9f8-07bc-e7c4-d83517749537" executionId="b72fc3ad-9e7e-48c3-90fa-d3da3b689f3b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="b72fc3ad-9e7e-48c3-90fa-d3da3b689f3b" testId="f9e5d2bf-e9f8-07bc-e7c4-d83517749537" testName="ParsingCanProcessSingleNodeWithComment" computerName="INSPIRON-530" duration="00:00:00.2725972" startTime="2011-06-26T16:55:25.0858750-04:00" endTime="2011-06-26T16:55:26.0858750-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b72fc3ad-9e7e-48c3-90fa-d3da3b689f3b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;One day, deep in the forest ...
+&gt;. Actual:&lt;One day, deep in the forest ...
+Recurse =&gt; Forest
+&gt;. </Message>
+          <StackTrace>   at UnitTest.NodeHelperTest.ParsingCanProcessSingleNodeWithComment() in E:\Ashiq\Programming\DeenGames\ThePrisoner\UnitTest\NodeHelperTest.cs:line 153
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

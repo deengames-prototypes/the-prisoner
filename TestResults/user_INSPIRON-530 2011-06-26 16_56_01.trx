@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7af8dadd-a8a4-4623-a096-a7add0f9843d" name="user@INSPIRON-530 2011-06-26 16:56:01" runUser="INSPIRON-530\user" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="f8776ff7-fab6-4842-a5b1-d5b810a230b5">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="user_INSPIRON-530 2011-06-26 16_56_01">
+      <DeploymentItem filename="E:\Ashiq\Programming\DeenGames\ThePrisoner\Core\Bin\Debug\ThePrisoner.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2011-06-26T16:56:01.9296250-04:00" queuing="2011-06-26T16:56:01.9608750-04:00" start="2011-06-26T16:56:01.9608750-04:00" finish="2011-06-26T16:56:02.3827500-04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ParsingCanProcessSingleNodeWithComment" storage="e:\ashiq\programming\deengames\theprisoner\unittest\bin\debug\unittest.dll" id="f9e5d2bf-e9f8-07bc-e7c4-d83517749537">
+      <Execution id="ccc51c97-c38b-4f05-aed4-2b9caf60751c" />
+      <TestMethod codeBase="E:/Ashiq/Programming/DeenGames/ThePrisoner/UnitTest/bin/Debug/UnitTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTest.NodeHelperTest, UnitTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ParsingCanProcessSingleNodeWithComment" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="f9e5d2bf-e9f8-07bc-e7c4-d83517749537" executionId="ccc51c97-c38b-4f05-aed4-2b9caf60751c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ccc51c97-c38b-4f05-aed4-2b9caf60751c" testId="f9e5d2bf-e9f8-07bc-e7c4-d83517749537" testName="ParsingCanProcessSingleNodeWithComment" computerName="INSPIRON-530" duration="00:00:00.0241639" startTime="2011-06-26T16:56:01.9765000-04:00" endTime="2011-06-26T16:56:02.2265000-04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ccc51c97-c38b-4f05-aed4-2b9caf60751c">
+    </UnitTestResult>
+  </Results>
+</TestRun>

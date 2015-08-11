@@ -1,0 +1,701 @@
+﻿######### Common intro #########
+
+Start Node: Awakening
+	You open your eyes. Darkness threatens to overwhelm you from the edges of your vision. Your head aches as if pounded by osci-laser drills. Your arms, legs, back, and neck scream with pain. You blink your eyes as they adjust to the stark white light from the two glo-globes hovering in front of you.
+	
+	You shift, and realize your arms and legs cannot move; they remain bound behind you. You crane your head to the left, ignoring the protest of your neck muscles.
+	
+	Two long, thin white lights encircle both arms at the wrist, and both legs at the knee. They glow with a soft, steady grey light. Military-grade lightcuffs.
+	
+	You toss your head. Where are you?
+	
+	And for that matter, who are you?
+Links:
+	Look around => Looking Around
+	
+Node: Looking Around
+	You frown in concentration. You recall ... little. The whoosh of drone carriers, light and fast ships, as they zipped through the air; the smell of ozone from laser weapons, and the sickly-sweet stink of charred flesh; and screams. Many screams.
+	
+	Your head throbs. No other memories, sights, or sounds swell up; not even a name. You shift your eyes from wall to wall. A simple room, if spacious, with plain, grey plasti-steel walls; a doorway lies across from you, a checkered pattern frames a thick metal door; a diagonal slash marks the opening.
+	
+	And there, above the door, an insignia hovers and flickers: a molecule-like shape with the capital letters "AE" flickering in white light from the center.
+	
+	"Atheist Empire." The name croaks from your lips. You jump at the voice; is that really you?
+	
+	The room vibrates slightly from the steady thrumming of some unknown noise. The door hisses and slides open to reveal a tall, blocky figure silhouetted by the bright white ceiling lights behind him.
+Links:
+	Peer at the dark figure => Grand Entrance
+
+Node: Grand Entrance
+	The shape hovers over the floor toward you; a dark-skinned head sits in a cone-shaped glass helmet. Small implements jut from every side. A round, silver globe makes up the body, and below that, a concical shape with glowing blue rings form a quark thruster.
+	
+	You glance at the arms and legs, all thick metal; only the head is human. Dark eyes peer at you from under short, curly black hair and a triangular nose and a sneer of a mouth.
+	
+	The shape laughs, a thin, reedy laugh. Round orbs fly from behind, and hover in front of you; a yellow beam of light spurts out, and scans you from head to toe to head.
+	
+	"And the concussion?" sneers the dark head. "How much of the amnesia remains?" You squint through the light. The orb rotates and vibrates as it generates the results. Something familiar about that face ...
+	
+	"The president," you croak. He starts, then laughs again. "Excellent," he says. The president of the Atheist Empire, the great conquerers of Europe and the Americas. You feel the hair rise on your neck.
+	
+	Merciless killers.
+	
+	He hovers closer to you. "So," he said. "You thought your little empire could withstand our might?" A metal hand slams across into your right cheek. You feel two teeth crack. "You thought you could be independent?" Pain slams into your stomach. 
+	
+	"Well? Don't you have anything to say?" He demands.
+Links:
+	"The All-Seeing sees." => Holo-Recorders
+	"..." => Stay Silent
+
+######### Green Arc #########
+
+Node: Stay Silent
+	"Nothing to say?" the president sneers. "Very well. Lars!" he bellows. A huge shape emerges from the darkness of the hallway; twelve feet tall, all dark, cold, rivetted steel. Two green circular lights shine out of a dome-shaped head. Thick arms, thick legs, and a thick frame walk towards you. A Goliath. "See if you can loosen this one's tongue," the president sneers, and hovers away.
+	
+	The green eyes light up and shine with green-white light. A large metal hand the size of a small dog reaches for your head.
+Links:
+	Some time later => Disappointment
+
+Node: Disappointment
+	Blood drips from your mouth and pools below you. Your right cheek aches. Your throat burns from screaming.
+	
+	The door hisses open, and you flinch involuntarily. Not Lars. A small figure hovers in, a boxy white maintenance bot with soft blue eyes. It whisks across the floor, and removes pooled blood and flecks of flesh.
+	
+	On the torso, a light flickers; a holograph. A headline proclaims "Islamic colony put down" and "head judge captured and imprisoned" over the holograph of a face.
+	
+	Your face.
+	
+	Memories flood over you: years spent studying Islamic law. Faces of teachers, many dead, surface and disappear. Your great Islamic heritage, culminating with your place as the head judge of the only Islamic colony in America.
+	
+	The whirr of Drone Carriers. The bright, burning light of lasers. The end of the Islamic colony, the only stronghold against atheism. Your friends charred corpses crispened into dust -- Christians, Jews, Muslims, all in one blast furnace.
+	
+	You shake with rage and sorrow. But silence only brings disappointment; you are the last. With silence, none remain to oppose the oppressive regime of the AE.
+	
+	The doors hiss open.
+Links:
+	Glance at the door => Last Chance
+	
+Node: Last Chance
+	The president hovers in. Behind him, Lars booms into the room. And behind him, a second Lars. And a third. They fan out around you, forming an inverted V-shape.
+	
+	"This is your last chance! Speak ... Great Khateeb!" the president sneers. Behind him, the three robots hum as their power sources charge up.
+	
+	"Speak!" he bellows.
+Links:
+	Spit => Brain Power
+	Remain silent => Exile
+
+Node: Exile
+	You stare at his snarling rictus. But no words come to mind. What options remain now? What could you say to diffuse the situation? A thousand ideas whirl through your mind, but not one crystalizes on your tongue.
+	
+	The head stares at you. A vein throbs.
+	
+	"Very well," he sneers. "I have no use for a speaker without a tongue. Send him to the prison planet."  He turns and waves a hand at you. "A remarkable waste of our efforts." He hovers away.
+	
+	The three goliaths approach you. One of them seizes you. They escort you down identical hallways riddled with intersection. Left. Right. Forward. Right. Left. You quickly loose track.
+	
+	Two big doors split open vertically to admit you to a large, empty metal room. Small round doors line up on the far end, each with a lit green light above and a dim red light.
+	
+	They stomp over to one of the doors and key in a code. They fling you inside. You smash into the floor as the door closes behind you.
+	
+	"Escape sequence activated. Destination: Arkaeus." 
+	
+	The Prison Planet.
+Links:
+	The pod lands => Prison Planet
+
+Node: Prison Planet
+	You stare out the huge windows. Dusty, dry, grey sand and dirt swirls in the air, reducing visibility almost to nothing. After hours of empty dust and dirt, you spot a dim light.
+	
+	The pod plummets, then rolls and twirls, before finally careening down a narrow tube-like tunnel.
+	
+	It hovers to a stop. The door opens; an orange robot with a dome-head glares at you.
+	
+	"Welcome, prisoner 1033776," it says.
+	
+	Some time later, you find yourself in a small grey cell. To your right, through the clear, laser-ringed windows, you see two prisoners in an adjacent cell.
+	
+	Now what? Your only option is to wait and think.
+Links:
+	Sleep => Fight!
+	
+Node: Fight!
+	Shouts explode in the silence. You wake to find the doors open. A group of people surround two individuals. Fists slam. Blood and spittle flies through the air.
+	
+	You grimace as one inmate bends the other's arm backward at an impossible angle. It breaks with a clean snap. The breaker grins and laughs hysterically.
+	
+	You glance at the guards, bulky steroid-grown humans with shining black helmets, black suits, and long laser-rifles. Their eyeless helmets stare, but they do not make any moves.
+Links:
+	Throw yourself into the ring => Stop the Fight
+	Mind your own business => Watch the Fight
+	
+Node: Stop the Fight
+	You fling yourself through the ring of people and into the arena. You slam into the hysterical inmate, throwing him to the ground. You grab his arm and twist it behind his back until he screams.
+	
+	He swings and bucks from side to side. You twist his arm back further until he stops.
+	
+	You hear the hum of laser rifles and glance up to see the two guards, laser rifles pointed at your chest. The inmates all huddle away at a far wall.
+	
+	You slowly raise your hands and rise, stepping away from the unmoving inmate.
+	
+	"Get into your cell," the metallic voice cackles.
+	
+	You comply.
+	
+	~*~
+	
+	The two guards remove the body of the dead inmate. The other fighter sulks away, rubbing his arm and glaring at you.
+	
+	You glance at the virtual window; the two neighbouring inmates stare at you; one with short black hair, the other with long black hair.
+	
+	"That ... was crazy," the long-haired man says. "Why would you do something like that?"
+Links:
+	"Because I'm a Muslim." => Five Pillars
+
+Node: Five Pillars
+	"What?" he says. He stares at you. "What does that have to do with anything?"
+	
+	"I will explain," you say. "But first, do you believe in God? In a higher power?" you ask. He nods.
+	
+	"So do Muslims," he said. "We are commanded to believe in only one God; to pray five times a day; to give a small percentage of our savings to the poor; to fast every day one month out of the year; and to make pillgrimage to The House," you say.
+	
+	"As for the fight," you say, "our book says that to save one human's life is to save all of humanity. I could not sit and watch him die," you say. He nods as understanding lights up his eyes.
+	
+	You glance at the cross tattooed to his arms. "We believe in Jesus, too," you say.
+Links:
+	"What about Jesus?" => Prophet Jesus
+
+Node: Prophet Jesus
+	"He's one of our prophets," you say, "one of the top five; Muhammad, Moses, Jesus, Noah, and Abraham, peace be upon them all." The inmate's eyebrows shoot up.
+	
+	"Anybody who could jump in like that is good in my books," he says. He steps closer. "My name is Abraham. Abe," he says. "Good to meetcha." You  nod. "I never believed that trinity stuff either," he said. "A man is a man, no matter what else he may be." You nod.
+Links:
+	Ask Abe about his parole => Failed Parole
+	
+Node: Failed Parole
+	"Hey. Hey!" someone says. "Wake up." You force your eyes open.
+	
+	Abe stands close to the window. Sadness blankets his face. "How did your parole go?" you ask.
+	
+	He shakes his head.
+	
+	"Bloody cops," he says. "The Guard actually testified--swore!--against me that they saw me kill that man. I didn't kill him!" he says. You nod, careful not to agree or disagree.
+	
+	He glances left and right, then steps closer and drops his voice. "I'm out of here," he says. "I'm breaking out. Tonight. Before they vapourize me, like they vapourized Charles." His room-mate, found guilty for murder.
+	
+	"You're a good man," he says. "Why dontcha come with me? We'll be out of here quicker than you can say boo," he says. He holds up a crackling device, grinning. "We'll escape. I'm sure we can work something out!"
+	
+	A key cracker; it hisses and crackles with blue electricity.
+Links:
+	"I'm with you" => Failed Escape
+	"Alas, no" => Unto Darkness
+
+Node: Failed Escape
+	You sigh inwardly. What choices do you have? What other options remain?"
+	
+	"I'm in," you say. He grins. He swings the key cracker forward; with a flash of light, it severs the force-field window. He jumps into your cell, then thrusts it at the door. 
+	
+	With an audible zap, the door field disappears.
+	
+	"Come on!" he says, and dashes down the hallway. "This wa--"
+	
+	Laser beams slice him open. The smell of burning flesh fills the air.
+	
+	You freeze. Three black-clad Guards charge down the hallway. They level their rifles at you.
+	
+	You raise your hands slowly. "This isn't what it looks li--"
+Links:
+	*WHAM* => Bear Food
+	
+Node: Bear Food
+	Hot desert sun burns down on your shaved head; your thin orange garment does nothing to prevent the heat.
+	
+	You ignore the sweat that pours down your head. A giant bear, shaggy, brown, and 20 feet tall, roars and slices open another inmate. It gallops across the sand towards you. It roars, displaying teeth as long as your arm.
+	
+	You turn and flee. The last thing you see is a dark shadow that blots out the sun.
+
+Node: Unto Darkness
+	"I cannot," you say. "It wouldn't be right."
+	
+	He shrugs. "Suit yourself," he said. "You always seemed a practical man to me." he turns and zaps the cell door force-field with his key cracker. A bright light flashes.
+	
+	He sprints down the hallway. "Die, you pi--" you hear. The hum of lasers fill the air.
+	
+	You wait. Three armoured Guards charge down the hallway past you.
+	
+	He didn't make it.
+	
+	~*~
+	
+	Three armoured guards charge down the hallway past you. The hum of lasers sounds, followed by the hiss and crackle of energy weapons.
+	
+	"Come on!" someone says. An old face, from years ago. He slams a thin metal card into your force-field. It explodes in a crackel of energy. "We've finally got you!" Imran says, extending an arm. You grab it and run, your boots thundering on the metal hallways.
+	
+	You run, your ears filled with the sound of boots on metal and the hissing of your breath. You reach two huge double-doors, dark metal grey; brilliant, searing white desert sunlight boils through.
+	
+	"The starfighter is just outside! Come on!" Imran shouts. You sprint into the open desert air.
+	
+Node: Watch the Fight
+	You watch the crazed mob. The aggressor, long blonde spiked hair shining in the artificial light, pulverizes his opponent, a diminutive brown-haired stick of a man.
+	
+	You grimace and turn away. More shouts sound, and more fighting.  You step back as the crowd turns into a mob, fists and feet flying.
+	
+	You hear a familiar *CLANG!* as two goliaths stomp into the room. You shudder and turn away. The shouts of anger quickly become screams, punctuated by a crack of bone breaking and the thud of bodies hitting the walls.
+	
+	A few minutes later, silence reigns. The goliaths stomp by, green eyes swivelling at each person, the brown-haired man's body grasped in one hand. Their cold stare makes goosebumps rise on your neck. 
+	
+	You glance at the blonde-haired man. He snickers, nursing a broken wrist. Madness shines from his eyes. He mutters to himself.
+Links:
+	Look away => Victim
+	
+Node: Victim
+	You turn away. You hear more muttering, punctuated by an occassional laugh. You try not to pay attention to the moans of the injured.
+	
+	The next day, at the usual exercise time, the force-fields fuzz out. The prisoners arise slowly, some nursing bandages or casts. Many keep their eyes down-cast and avoid others. Only a few pair up for whispered, tense discussions.
+	
+	As you pick your way towards the hallway, something slams into your back, and propels you forward into a tall, lanky, steel-haired man. He clambers to his feet and turns. "Hey, watch where you're going!" he shouts.
+	
+	You raise your hands slightly. "S-sorry!" you say, turning. "This guy bumped into--"
+	
+	As you turn, the blonde-haired man slams his palms into your chest. "Yeah, watch it!" he cackles.
+	
+	"You watch it, Lewis!" the steel-haired man shouts, and pounces. Before you can move, three move angry voices bark out, and a knot of fighting forms.
+	
+	You turn to back away as a short, round egg of a man flies out of the knot and slams into you. You fall to your knees as he rolls over your back. You hear your left leg crack as it breaks.
+	
+	Your scream is lost in the shouting and fighting. Soon, you hear the familiar thud of the goliaths.
+Links:
+	Crawl back to your cell => Contemplation
+	
+Node: Contemplation
+	You crawl, forcing away the sharp pain in your knee. As you reach the smooth floor of your cell, you hear the first metal thud.
+	
+	You force yourself in and turn to face the door. The goliaths make short work of the fight; soon, there are more broken bones and silent faces.
+	
+	~*~
+	
+	Three weeks later, you sit in your cell. Anger courses through your veins. Another fight instigated by Lewis -- this time, tripping you into a bigger man -- another fight. The ninth in three weeks.
+	
+	The guards just laugh when you complain. Taking justice into your own hands is not an option ... but on the other hand, silence and politeness only brings more punishment and bullying. The law of the lawless rules the jail.
+	
+	Perhaps resistance would be prudent.
+Links:
+	Teach Lewis a lesson => Riot
+	Convince Lewis to desist => Murder
+	
+Node: Riot
+	The next day, at the usual break time, you nod to yourself as you wander through the shared area, seemingly at random. You make eye contact with one or two prisoners, but largely avoid it. You slowly spiral towards Lewis.
+	
+	Finally, minutes later, you stand directly behind a tall man with long black hair -- Abe, you think his name might be. Lewis stands directly beside him. Both stand with their backs turned to you.
+	
+	You crouch down into a defensive stance, hook your leg around and sweep Lewis' feet out from under him. As he flings his arms forward, you yank his leg backward and throw yourself onto his back. With a sharp crack, his shin breaks.
+	
+	He turns, screaming, hands shaped into claws. His cybernetic hands close around your throat.
+	
+	You struggle, but cannot remove his hands. Dark spots bloom into your vision.
+	
+	The grip suddenly loosens. You heave breath into your lungs. A goliath stands inches in front of you, directly in your vision.
+	
+	"Prisoner 1033776," a metal voice booms, "this is your third and final infraction. Your behaviour will not be tolerated." 
+	
+	The last thing you see is a round, mouth-like metal object shoot out of the goliath's stomach. The world goes dark.
+	
+Node: Murder
+	You force your anger away. What good would it do, becoming lawless like the other prisoners? You must maintain a higher standard for yourself. Instead, you decide on a direct approach. You spot Lewis, alone in a bubble of space from other prisoners. You stride up to him.
+
+	"Lewis," you say. He turns, grinning, his green eyes with whites showing all around. "Lewis, I don't know what you have against me, but--"
+	
+	"Against you?" he enunciates. He cackles. "Oh no, you and me! Me and you!" The other prisoners turn, silent.
+	
+	"Lewis, listen," you say. "I--"
+	
+	"Listen, glisten! Glisten, listen! Glistens like dew!" He cackles, swinging his head wildly from prisoner to prisoner. "Dew drops, all of you! Under the scythe!" Something glimmers in his hand.
+	
+	You feel sweat trickle down your back. You step back, eyes focused on Lewis. Then a second step. Then you turn and hurry back to your cell.
+	
+	Madness, you realize. True madness. A madman cannot be reasoned with; and must only be endured.
+	
+	A shadow falls across the floor. You look up, then jerk backward. Lewis jabs you in the stomach with a long, triangular glass shard, then leaps back, cackling. You glance down at your blood as it pools across the floor. The world turns grey. You hear the clang of a goliath, before everything goes silent. Forever.
+
+######### Blue Arc #########
+
+Node: Holo-Recorders
+	You split out the two broken teeth. They clatter to the floor, two small white chips. Blood dribbles down your chin.
+	
+	You squint at the silver orb of a body. A small tube juts out, capped with a clear lens. You nod towards it.
+	
+	"The All-Seeing is watching you," you say, "recording every action you do. Just like your holo-recorders." He cocks his head to the side, reminding you oddly of a crow. "Every action," you say, "every word, every abuse."
+	
+	Behind him, you see a half-moon of men standing, dark shapes with faces masked behind visors. The Guards. Each carries a long, smooth grey plasma rifle. They turn to look at each other.
+	
+	The president's sneer fades. He floats backward, frowning at you.
+	
+	"I see you have recovered your tongue, Great Khateeb," he says. "Very good. We will debate." He turns and hovers back out the main door, thoughtful, his entrouge in tow.
+	
+	You hardly notice. The words "Great Khateeb" sparks memories; first a slow trickle, then a torrentous flood of memories slam into your your mind.
+	
+Links:
+	Remember => Memories
+
+Node: Memories
+	Some memories are best left forgotten. You are the Great Khateeb, speaker for the fledging Coalition of Theology -- Muslims, Christians, and Jews who banded together to resist the waves of the AE that swept the land. Headquartered in Hawaii, they kept you in charge of alliances and treaties. 
+	
+	From a young age, you excelled at public speaking, and your parents nurtured you in that direction; as you became legendary, you engaged the Atheist Empire more and more in debate to prevent bloodshed.
+	
+	Until the day that drone carriers darkened the sky.
+	
+	They came hidden above false rain-clouds, the drone of hover propulsion masked by a hurricane. As a torrent of rain and wind slammed into the island, so to did lasers, bombs, neutron weapons, and attack-bots -- small, round, circular saw-like seeker drones. Waves and waves of seeker drones.
+	
+	You snap your head to the side to dispel the grisly memories. Those drones spared nobody -- no man, or woman.
+	
+	Unable to raise your hands, you raise your head in supplication. "O All-Seeing, All-Forgiving, Most Merciful," you plead, "forgive those who were killed by these tyrants, and have mercy on their families."  You sink backwards against your restraints, overwhelmed with sadness.
+
+Links:
+	The door opens => Escorted
+
+Node: Escorted
+	Two of the Guards march into the room. Weapons bristle in their hands; the light shines across their armoured shapes.
+	
+	One stands in front of you and aims his plasma rifle at your head. Three others stand behind him, weapons held casually, while a fifth walks to your side and detaches your lightcuffs from the wall.
+	
+	"Where are we going?" you ask. The one with the rifle aimed at your head flexes his trigger finger.	The one behind leads the way back out the room. Two flank you, while another jams his rifle into the back of your chest.
+	
+	"Move, criminal," he barks. You take a tentative step; your legs tingle with pain. Then another. You force yourself to walk, slowly, behind them.
+	
+	They navigate through a maze of corridors that leaves you bemused. A large door slides up into the wall in front of you. They lead you over a long, thin metal bridge without guardrails; a sheer drop leads down hundreds of meters to a crowd gathered below; you can see individual heads like small ants in the distance.
+	
+Links:
+	Cross the bridge => Where is God?
+	
+Node: Where is God?
+	You force yourself not to look down as you step onto the bridge. The constant thrumming vanishes behind you.
+	
+	Of course: neutron engines. You're in a ship; a hovering ship, perhaps even the president's personal unit.
+	
+	Sure enough, he hovers in front of you, on a floating semi-sphere made of smooth green metaglass. A holo-recorder broadcasts his shape ten meters high into the air; all around him, V-Screens float, showing crowds of people gathered in different areas.
+	
+	They all stare at him through the v-screens, waiting. You see fear, worry, and anxiety on most of the faces. Some of them look directly at you, eyes widening in shock. Others look grim, while still others -- your friends? you can't remember -- look determined.
+	
+	"Citizens of Earth," the president's reedy voice booms, "I have in front of you none other than the Great Katheeb, the leader of those traitors who oppose my will!"
+	
+	A roar of anger swells from the crowd below. The guards heft their weapons and tense.
+	
+	Fear spikes in your heart. This could turn into a massacre if the situation is not diffused.
+	
+	He turns to you, grinning. "So!" his amplified voice booms. "Your 'god' is all-seeing, is it? Does it see ... this?" A metal orb blasts out of his chest and slams into your legs. You crumple as pain lances up your right knee.
+	
+	The roaring of the crowd dies as if cut off by a knife.
+	
+	A dark shadow appears over you. You look up to see a floating form silhouetted by the sun. "Where is your all-seeing god if you can't see it?" he sneers. "You cannot hear it. Smell it. Touch it." He raises a metal fist to strike.
+	
+Links:
+	"Interesting Question ..." => Brain Power
+
+Node: Brain Power
+	"An interesting question," you say. His fist freezes. Your voice, too, echoes across the chasm. "You say you cannot see God, cannot hear God?" You force yourself to your feet.
+	
+	Your mind churns. Your heart races. Complete and total silence stills the air. "Perhaps we should ask another question," you say. You lock your eyes with his, two dark orbs that contain death within them. You tense, ready.
+	
+	"Where is ... your brain?" you say. "I cannot see it, cannot hear it, cannot touch it." You shrug to feign a casual air. "I guess your brain doesn't exist. Certainly, it would explain much."
+	
+	With a roar, he flies toward you. You duck. The wind of his passage wooshes over your head, filled with a buzz of metal blades attached to the bottom of his hover platform.
+	
+	He careens toward the edge of the metaglass platform, shouting. Before you can think, three guards leap onto you and slam you into the ground. Your right knee turns into burning agony.
+	
+	Cheers of the crowds below fill the air. They are all you hear as metal-gloved fists pummel you into darkness.
+Links:
+	Some time later => A Choice
+
+Node: A Choice
+	You awaken once more in your cell. You cringe inwardly; every patch of skin feels agony. You blink your eyes, ignoring the string of acid in them.
+	
+	Sadness wells up in you. Perhaps your public appearance was a bit too defiant. Was it only days ago? Or was it weeks? Months? Time ceased to hold meaning; the passage of time only brought more torture, more pain. You struggle to remember a time before the pain.  What a luxury to be able to think clearly, and without overpowering pain!
+	
+	A knot forms in your stomach as the door slides open. Will it be drones this time? Maybe two of the guards? A goliath? Or maybe, dare you even hope -- a rescuer?
+	
+	A dark shape hovers in front of you. The president himself.
+	
+	He frowns at you. "My patience tires, 'Great Khateeb,'" he says, and spits the title at you. "If you will not bend to my will, then I will break you. What you feel now is only a drop of the suffering I can make you feel.
+	
+	"Or I can help you," he says, "and bring an end to your pain and suffering. You will live a life of luxury and peace; you will eat and drink from any of the foods of my great empire," he says.
+	
+	"The pain will end ... with just one drink." He puts forward a familiar crystal goblet, tall and fluted and rimmed with gold. Dark, blood-red wine fills it to the brim.
+	
+	"Drink," he says, "in defiance of your religion. Only one sip, and the pain will end. The choice is yours."
+Links:
+	Reach for the Glass => Luxury
+	"The Hereafter" => Dry as Dust
+
+Node: Dry as Dust
+	You recite a verse from the Qur'an, memorized in childhood like so many of the Muslims: "While the Hereafter is better and more enduring ..."
+	
+	You collapse into silence, without any strength to continue. The room falls silent as the words sink in and are automatically translated.
+	
+	Silence.
+	
+	"Very well," the president says. He turns to the aides. "Ready the electrocuter for stadium three. We will be rid of this one tomorrow."
+	
+	From half-lidded eyes, you see two of the aides behind the president glance at each other as the president hovers away. The death sentence hangs heavily over your head.
+	
+	Faintly, you hear the hissing of the door as the aides leave to make their preparations. Disgust slides around your fear of tomorrow; even your death will become a spectacle for the people, and a means to instil more fear in the masses.
+	
+	You lapse into unconciousness.
+	
+	Some time later, you hear the door hiss open. Truly, death comes to all, you think, and there is nothing to fear. You lived an upright life, and hope for the mercy of your Lord.
+	
+	Grim-faced, you open your eyes.
+Links:
+	Force your head up => Surprising Aide
+
+Node: Surprising Aide
+	A dark figure slips through the door, and carries an object in one hand. Drugs? The shape resolves into a walking figure.
+	
+	You stare at the dark glasses of one of the aids. He carries a small metal cylinder in one hand. He slips the top off. "Water," he says, and presses it against your lips.
+	
+	Cool, sweet water pours into your mouth. You gulp it down.
+	
+	"Thank you," you say. He nods. "But why?"
+	
+	He pulls a small cube out of his pocket, and depresses an indentation; you feel your skin tingle. 
+	
+	"I am Tim. Nobody will be able to hear us now," he says. "When I was in the academy," he says, "the AE would base their authority on one pillar: the watch-maker theory. That the universe is like a watch, made and left; and it is our right to take it and rule with it."
+	
+	He glances at the door and then returns his gaze to you. "It never sat well in my mind," he said. "I understand you have a different perspective." 
+	
+	Your mind churns a million thoughts. You focus. "Yes," you say. "Simply put: have you ever heard of a watch repairman?"
+	
+	You wait. The corners of his mouth creep up in a smile.
+	
+	"The universe is the same," you say. "Without our Creator to keep it in check, it would break down. This is central to our belief; that there is one Creator, one Sustainer, who we worship exclusively.
+
+	"Our way of life is five things: to believe in one Lord, without parts or partners, who we worship exclusively; to pray five times a day, at various times; to give two percent of our savings to the poor; to fast daily in the month of Ramadan; and to make pilgrimage to the Great House, in Makkah."
+	
+	"I see," he says. "So this is why you are tortured so excessively." You nod, glancing at the door behind. He glances at the door, then back to you.
+	
+	He nods. "I see that I made the right decision. Listen carefully, because your life depends on it."
+Links: 
+	Listen Carefully => Fight or Flight
+
+Node: Fight or Flight
+	"I believe you. I don't believe in what they're doing to you," he says. "They are going to execute you soon. I have prepared an escape pod." He steps behind you and deactivates the lightcuffs.
+	
+	"The pod bay is in the yellow quadrant of the lower level. I don't know if you will make it. Follow this." He hands you a small holographic tracker; you activate it. A transparent arrow materializes and points forward, towards the main doors.
+	
+	*CLUNK*. His head jerks to the side. "Someone's coming." He frowns. "I cannot jepordize my place here for you. This is all I can do," he says. "I'm sorry." He turns and melts into the darkness.
+	
+	The door hisses open to reveal a dark figure.
+Links: 
+	Fight => Last Ditch Attempt
+	Slump backward as if chained => A Rescue
+
+Node: Last Ditch Attempt
+	You gather the last vestigates of your energy for a strike. Your body aches and your muscles prostest. This will be your one and only attack.
+	
+	You surge forward and hurl yourself at the enemy. You slam into them, and both of you roll across the floor. The tracker clatters to the floor of the cell.
+	
+	You roll to a stop in the corridor. You push yourself up. Your adversary grabs you.
+	
+	"It's me!" a familiar voice shouts.
+	
+	You blink at the face. Could it be ... ? "Imran?" you ask.
+	
+	He grins. "We finally found you! There isn't much time -- let's go!" You stand. He pulls you to your feet. 
+	
+	Your legs scream in protest, but you force yourself forward. Down the endless corridors you shuffle, turning left and right and left and right, until you lose all sense of direction.
+	
+	You arrive at a junction, with four doors in front of you.
+	
+	"I think we're almost there," Imran says. "It's just one more door. The others are waiting for us."
+Links:
+	Pick a random corridor => Martyred
+
+Node: Martyred
+	You pick the third door. It hisses open.
+	
+	The crackle of energy weapons and smell of ozone assails you. Lasers light up the escape bay. From a nearby window, you see the familiar sleek black-purple shape of Imran's starfighter.
+	
+	He shoves you down as a beam slices through air above you. You hear Imran scream. You slam into the deck. Colour disappears from the world. You try to lift your head, but fail. After some struggle, you manage to lift it.
+	
+	And stare directly into the one-eyed light of a kill drone.
+	
+	~*~
+	
+	Tim waits, unmoving, enveloped in the shadows of the escape bay, as the maintenance bauts haul away the last of the bodies of the would-berescuers. The doors hiss close.
+	
+	Silence.
+	
+	Tim shakes his head. Such loss; a good number of the rebels died. He stares at a small circular watch affixed to his right hand, lost in thought.
+	
+	"The AE must be stopped," he announces to the empty flight bay, "no matter the price."
+	
+	He steps into an escape pod.
+Node: A Rescue
+	You slump back against the wall and feign captivity and weakness. Perhaps you can use a moment of surprise to overcome your attacker and escape.
+	
+	A face materializes out of the darkness in front of you. You blink at the face. Could it be ... ?
+	
+	"Imran?" you ask.
+	
+	He grins. "We finally found you! There isn't much time -- let's go!" He steps beside you to deactivate your lightcuffs. "What ... ?"
+	
+	"I'll explain later. To the escape pods," you say. You activate the tracker. Together, you hurry through the door and into the partially-lit corrdior.
+	
+	Your legs ache in protest, but you force yourself forward. The tracker guides you through a maze of corridors, taking you left and right and left and right until you can no longer remember which direction you're going in.
+	
+	After some time, you arrive at a junction with four doors in front of you. The arrow points at the third door. Imran hefts his laser rifle.
+Links:
+	Step through the door => Flight
+
+Node: Flight
+	The crackle of energy weapons and smell of ozone assails you. Lasers light up the escape bay. From a nearby window, you see the familiar sleek black-purple shape of Imran's starfighter.
+	
+	He shoves you down as a beam slices through air above you. You hear Imran scream. You manage to roll as you hit the deck. You leap to your feet. You grab Imran's laser rifle from the floor and turn.
+	
+	Five kill drones converge on Imran. You take aim. They explode in an arc of purple laser light.
+	
+	Imran turns, nods. "That's the door," he says, and points at one of several doors. Exploded drone bits litter the floor, amidst bodies. You spot bodies of guards, and bodies of what could only be your friends.
+	
+	"Hurry!" Imran shouts. A wave of kill droids erupts from a nearby door.
+	
+	Your arms and legs scream in protest. You ignore them, and cut a swath of drones as you back towards the door. Imran grabs you and yanks you inside as the door hisses shut.
+	
+	You collapse into the copilot chair. Imran flops into the pilot chair, and flips three switches. "Brace yourself!" he says. He stabs at the console. The starfighter surges into the darkness of space.
+	
+	"I think we lost them," Imran says after a few moments. "I'll set a course for the Coalition home planet."
+	
+	The starfighter disappears into the darkness of space.
+Node: Luxury
+	You stare at the glass. Every muscle in your body cries out; it seems like your future holds only torture, with no end. You recall all the examples of scholars before you who were tortured and put to death for belief, but refused to renege.
+	
+	You reach for the glass. A thousand voices howl in protest in your mind. But above all, only one thought remains: without water, without liquid, you will perish.
+	
+	You grasp the glass. The president's smile beings to widen. You pull it close, the moisture beading on your hand.
+	
+	You take one sip and almost vomit from the taste. Poison? Cold, bitter liquid slides down your throat.
+	
+	"Excellent, excellent!" the president cackles. "I knew you were a reasonable man." He turns to his cohorts. "Unshackle him, and bring him to guest room three."
+	
+	The aides remove your lightcuffs. You feel their stares on your skin. They escort you down a long maze of corridors, into a lift tube, and up several floors.
+	
+	You arrive in a spacious room. Holographic floor-tiles give a view of the clouds below you. A plush, gold-red chair sits in one corner. A plush, gold-red bed stands in the main area, next to a square round table.
+	
+	You walk to the bed and sit down, quieting the protest of your muscles.
+	
+	The aides disappear down the lift tube. Minutes later, a service droid appears, a floating silver cylinder with a blue head and long, spindly silver arms. It carries a long, flat silver tray. Delicious smells waft up from it.
+	
+	The droid places the tray in front of you. Fine breads, a salad with ingredients you can't identify, and fruits from various planets.
+	
+	You reach for the salad. As you chew, the droid applies accelerators. You watch your wounds close before your eyes.
+	
+	Later, the droid removes the empty tray and leaves. You lie on the bed. The pain is gone.
+Links:
+	Sleep => Indulgence
+
+Node: Indulgence
+	The next day, you find a plate simiarly decorated, but with different ingredients. You recognize soft, pale-blue rings on a plate as desert -- rare cactus fruit from a distant desert planet. And beside it, another goblet of wine.
+	
+	You vanquish the food, leaving only a few straggling crumbs as survivors. You stare at the goblet, still full.
+	
+	The service droid appears. "Have you completed your meal?" it squeaks.
+	
+	"Yes," you say.
+	
+	It lifts up the tray in two spindly arms. "You did not consume your beverage," it says.
+	
+	You stare at the goblet for some time.
+	
+	"Yes," you say. "I suppose I didn't, at that." you slowly reach for the cup. You lift the goblet and take a sip. Cool, sweet wine flows down your throat.
+	
+	Before you realize, the cup is empty. The service droid whisks it away.
+	
+	Days pass by, all similar. You find food, always exotic, always from different planets, as often as you ask of it. You are given the ability to roam freely in different areas of the ship, like a caged bird.
+	
+	But always, you find a cup of wine with your meals. It hardly bothers you anymore when you drink it.
+	
+	Several days later, you awaken to find a shape hovering at the lift tube, watching.
+	
+	The president.
+	
+	You sit up quickly. No guards, no aides.
+	
+	"Good, you are awake," he says. "I understand your wounds have healed."
+	
+	"Yes," you say.
+	
+	He nods. "And I trust your stay has been ... pleasant?" Light sparkles in his eyes.
+	
+	"Yes," you say slowly, unsure of where the conversation is heading.
+	
+	He nods. "Good, good," he says. "I have a small favour to ask of you."
+Links: 
+	"Go on" => A Request
+
+Node: A Request
+	"You and I, we have an understanding, yes?" he says. "I have provided you with wealth; with the life that many dream of. Is that not so?" You slowly nod your head. "Have we not become at least companions?" he says. "Surely you cannot deny my favours upon you." You nod again. He nods.
+	
+	"Then let us put an end to this "Islam" business," he says. He makes a gesture with his hand. A holo-screen appears. You stare at it. It shows ... you. Drinking wine. Eating what you should not have eaten. "The masses, they already see this broadcast, every day," he says. "But some still think it forged.
+	
+	"I ask you now, by all that I have done for you," he declares. "Denounce Islam! Denounce your way of life, by your own free will!" You stare at the recording. It transforms into a broadcast of the president standing next to you in the guest room. "Is it not a false way of life that you chose to follow?" he roars.
+Links: 
+	Denounce it => Misery
+	"No" => Dry Throat
+
+Node: Misery
+	"Yes," you croak, your throat dry. A slow smile seeps across his face, then blossoms into a dark grin. You open your mouth, but cannot speak; instead, you cough violently for a few seconds. Your friend appears next to you, and hands you a chalice of wine. You down it in three gulps. He grins at you.
+
+	"People of the coalition, see what your own leader chose!" he booms. Multiple holographic screens appear; you see people riot, fight, howl, and run.
+	
+	"Come," he says, and whisks you down a corridor. "Let us retire to my personal guest suite. This is indeed a great day of great victory," he says. A ring of guards forms around the two of you as you hurry down the hallway.
+	
+	"Here, at last," he says, and stops in front of a large metal door. A black-and-yellow striped frieze borders it. "In you go," he says. The door shakes and rumbles as it ascends into the ceiling.
+	
+	The guards escort you into a large metal room lined with huge containers of every shape and size -- capsules, boxes, spheres, prims, all in disarray; some metal, some plastic, some plastisteel, some transparent, some clear, all empty.
+	
+	You turn to ask where the bed is, but the door zips down and shuts in front of you. "Through the door," you hear. You hear a hiss as the room pressure equalizes.
+	
+	You turn. A single circular door sits on the opposite end of the cargo bay. A large red button lies on the wall next to the door.
+Links:
+	Press the button => Outer Space
+
+Node: Outer Space
+	The door zips upward to reveal the black velvet of space, peppered with white stars. Suction from the pressure difference yanks you outside. You try to shout, spinning, but have no voice.
+	
+	You tumble end over end until something appears in your blackening vision: the AE battleship, majestic, hovering in space. Your eyes flit over the surface, until you spy the open cargo bay door. Your friend stands there, hovering inches over the floor, laughing a silent laugh.
+	
+	You can't help but wonder why he's laughing.
+Node: Dry Throat
+	You open your mouth to say "no," but the words stick in your throat. Instead, a croak comes out.
+	
+	The president's forehead crinkles in bemusement. He urges you to speak. You clear your throat.
+	
+	"No," you finally say, surprised at the strength and confidence in your voice. Give up your hereafter? For a glass or two of wine? "You can buy anything in this life," you say, "but you cannot buy my hereafter." 
+	
+	The president's face darkens. "Every man has a price," he mutters. "Only fools do not see the reality of their situation." He turns to his lackeys.
+	
+	"Is the electrocuter ready?" he barks. One of the men glances at you, his dark glasses masking his face, unreadable. He nods. "Administer it," he says. "Now." He turns, a dark grin spreading across his face. 
+	
+	"If you're so eager for the next life, allow me to bring it to you," he says. 
+	
+	You stare. Suddenly, lightcuffs wink into existance around your hands and legs. One of the aides seizes you by the arm. They escort you down to the main floor, then past several hallways, until you stand in front of a solid, dark-grey door.
+	
+	The door hisses upward to reveal a small, empty room with a thick, heavy metal chair. Wires sprout from the chair and cover the back walls; the side wall admits a glass window with a view of the president. You notice several lights and dials on his control panel.
+	
+	They shove you into the chair, then leave. The president cackles as he turns one of the dials.
+	
+	Pain fills the world.	
+Links:
+	An End to the Pain => Unrecognizable
+
+Node: Unrecognizable
+	Time passes in an unending fog of pain. Every nerve, every skin cell cries out in constant, unending pain. Pain waxes and wanes until it even consumes your mind. People come and go, their faces only a brief image surrounded by pain.
+	
+	The pain stops.
+	
+	You blink. Could it be ... ? Your existance feels ... strange. Where did the pain go.
+	
+	A face appears. "Great Khateeb?" it says. "It's me. Imran. Can you understand me?" You stare at the face, shocked from the change in pain. "I came to rescue--"
+	
+	Bright purple arcs slice through the air. Light. Lasers?
+	
+	Something throws you from the chair. You collapse into a pile on the floor. Cool. Hard. So cool. Just a little bit of rest.
+	
+	You close your eyes. Forever.
